@@ -1,8 +1,3 @@
-# Amazon-Prime
-I made a Project on Amazon Prime.
-
-<img width="598" alt="Amazon Prime Dashboard" src="https://github.com/user-attachments/assets/2210a290-1834-4dec-a4fe-bbfb0fead2e6">
-
 Introduction
 
 1. Purpose of the Project: Explain the motivation behind analyzing Amazon Prime. Highlight the significance of understanding user behavior and content performance.
@@ -49,3 +44,5 @@ Correlation between content release schedules and subscriber activity
 
 
 6. Conclusion: Summarize the significance of your findings and how they can inform future strategies for Amazon Prime. Discuss potential implications for content development and marketing.
+
+   <img width="598" alt="Amazon Prime Dashboard" src="https://github.com/user-attachments/assets/2210a290-1834-4dec-a4fe-bbfb0fead2e6">
